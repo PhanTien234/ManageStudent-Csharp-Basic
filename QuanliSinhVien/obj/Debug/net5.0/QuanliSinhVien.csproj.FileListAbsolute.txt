@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\bin\Debug\net5.0\QuanliSinhVien.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\bin\Debug\net5.0\QuanliSinhVien.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\bin\Debug\net5.0\QuanliSinhVien.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\bin\Debug\net5.0\QuanliSinhVien.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\bin\Debug\net5.0\QuanliSinhVien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\bin\Debug\net5.0\ref\QuanliSinhVien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\bin\Debug\net5.0\QuanliSinhVien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\ref\QuanliSinhVien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\ClassManager\QuanliSinhVien\QuanliSinhVien\obj\Debug\net5.0\QuanliSinhVien.genruntimeconfig.cache
